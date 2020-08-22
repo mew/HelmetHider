@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "HelmetHider",
+  "name": "HelmetHider",
+  "description": "hides those stupid fucking gold helmets in skywars",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Nora"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
